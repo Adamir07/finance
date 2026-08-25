@@ -1,0 +1,6 @@
+{
+  "name": "TREKAD",
+  "description": "Personal money and USD to CFA Franc (XOF) transfer management, commission tracking, income, expense, and savings system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
